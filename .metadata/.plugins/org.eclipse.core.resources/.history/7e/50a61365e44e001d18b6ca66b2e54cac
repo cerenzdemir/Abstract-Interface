@@ -1,0 +1,6 @@
+package overriding;
+
+public class OgrenciKrediMnager extends BaseKrediManager{
+	public double hesapla (double tutar) {
+		return tutar * 1.10;
+}

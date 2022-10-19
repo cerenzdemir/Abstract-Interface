@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.jdbcPruductDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.business.ProductManager"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.entities.Product"/>
+    <fullyQualifiedTypeName name="oopWithNLayeredApp.dataAccess.ProductDao"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="Core.Logging.Logger"/>
+    <fullyQualifiedTypeName name="Core.Logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="Core.Logging.FileLogger"/>
+    <fullyQualifiedTypeName name="Core.Logging.MailLogger"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+</qualifiedTypeNameHistroy>
